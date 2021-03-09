@@ -15,22 +15,22 @@ public class User {
     /**
      * 
      */
-    public void inputImage;
+    public int inputImage;
 
     /**
      * 
      */
-    public void outputResults;
+    public int outputResults;
 
     /**
      * 
      */
-    public void id;
+    public int id;
 
     /**
      * 
      */
-    public void adminRights;
+    public int adminRights;
 
 
     /**

@@ -15,12 +15,12 @@ public class Segmenter {
     /**
      * 
      */
-    public void inputImage;
+    public int inputImage;
 
     /**
      * 
      */
-    public void outputParts;
+    public int outputParts;
 
 
     /**

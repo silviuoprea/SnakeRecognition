@@ -15,12 +15,12 @@ public class Application {
     /**
      * 
      */
-    public void weights;
+    public int weights;
 
     /**
      * 
      */
-    public void inputImage;
+    public int inputImage;
 
 
 

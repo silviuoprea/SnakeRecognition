@@ -15,27 +15,27 @@ public class PostProcessor {
     /**
      * 
      */
-    public void inputCategories;
+    public int inputCategories;
 
     /**
      * 
      */
-    public void outputSpeciesList;
+    public int outputSpeciesList;
 
     /**
      * 
      */
-    public void outputLocationsList;
+    public int outputLocationsList;
 
     /**
      * 
      */
-    public void outputSpeciesProbability;
+    public int outputSpeciesProbability;
 
     /**
      * 
      */
-    public void outputLocationsProbability;
+    public int outputLocationsProbability;
 
 
     /**

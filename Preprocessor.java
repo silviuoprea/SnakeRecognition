@@ -15,12 +15,12 @@ public class Preprocessor {
     /**
      * 
      */
-    public void inputImage;
+    public int inputImage;
 
     /**
      * 
      */
-    public void outputImage;
+    public int outputImage;
 
 
     /**
