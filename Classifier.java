@@ -13,14 +13,14 @@ public class Classifier {
     }
 
     /**
-     * 
+     * TODO: a class
      */
-    public void inputFeatures;
+    public int inputFeatures;
 
     /**
-     * 
+      * TODO: a class
      */
-    public void outputCategories;
+    public int outputCategories;
 
 
     /**

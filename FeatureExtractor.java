@@ -15,12 +15,12 @@ public class FeatureExtractor {
     /**
      * 
      */
-    public void inputParts;
+    public int inputParts;
 
     /**
      * 
      */
-    public void outputFeatures;
+    public int outputFeatures;
 
 
     /**
