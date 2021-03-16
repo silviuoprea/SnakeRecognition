@@ -2,7 +2,7 @@
 import java.util.*;
 
 /**
- * 
+ *
  */
 public class Application {
 
@@ -13,30 +13,38 @@ public class Application {
     }
 
     /**
-     * 
+     *
      */
-    public int weights;
+    public Integer weights;
 
     /**
-     * 
+     *
      */
-    public int inputImage;
+    public Integer inputImage;
 
 
 
 
 
     /**
-     * 
+     *
      */
     public void checkImageExists() {
         // TODO implement here
     }
 
     /**
-     * 
+     *
      */
     public void processImage() {
+        // TODO implement here
+    }
+
+    /**
+     * @param args
+     * @return
+     */
+    public static void main(String[] args) {
         // TODO implement here
     }
 

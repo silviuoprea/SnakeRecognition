@@ -2,7 +2,7 @@
 import java.util.*;
 
 /**
- * 
+ *
  */
 public class Segmenter {
 
@@ -13,27 +13,35 @@ public class Segmenter {
     }
 
     /**
-     * 
+     *
      */
-    public int inputImage;
+    public Integer inputImage;
 
     /**
-     * 
+     *
      */
-    public int outputParts;
+    public Integer outputParts;
 
 
     /**
-     * 
+     *
      */
     public void recognizeParts() {
         // TODO implement here
     }
 
     /**
-     * 
+     *
      */
     public void groupParts() {
+        // TODO implement here
+    }
+
+    /**
+     * @param args
+     * @return
+     */
+    public static void main(String[] args) {
         // TODO implement here
     }
 

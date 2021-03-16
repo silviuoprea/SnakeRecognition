@@ -2,7 +2,7 @@
 import java.util.*;
 
 /**
- * 
+ *
  */
 public class User {
 
@@ -13,30 +13,38 @@ public class User {
     }
 
     /**
-     * 
+     *
      */
-    public int inputImage;
+    public Integer inputImage;
 
     /**
-     * 
+     *
      */
-    public int outputResults;
+    public Integer outputResults;
 
     /**
-     * 
+     *
      */
-    public int id;
+    public Integer id;
 
     /**
-     * 
+     *
      */
-    public int adminRights;
+    public Integer adminRights;
 
 
     /**
-     * 
+     *
      */
     public void analyzeImage() {
+        // TODO implement here
+    }
+
+    /**
+     * @param args
+     * @return
+     */
+    public static void main(String[] args) {
         // TODO implement here
     }
 

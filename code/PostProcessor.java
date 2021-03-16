@@ -2,7 +2,7 @@
 import java.util.*;
 
 /**
- * 
+ *
  */
 public class PostProcessor {
 
@@ -13,42 +13,50 @@ public class PostProcessor {
     }
 
     /**
-     * 
+     *
      */
-    public int inputCategories;
+    public Integer inputCategories;
 
     /**
-     * 
+     *
      */
-    public int outputSpeciesList;
+    public Integer outputSpeciesList;
 
     /**
-     * 
+     *
      */
-    public int outputLocationsList;
+    public Integer outputLocationsList;
 
     /**
-     * 
+     *
      */
-    public int outputSpeciesProbability;
+    public Integer outputSpeciesProbability;
 
     /**
-     * 
+     *
      */
-    public int outputLocationsProbability;
+    public Integer outputLocationsProbability;
 
 
     /**
-     * 
+     *
      */
     public void correctErrors() {
         // TODO implement here
     }
 
     /**
-     * 
+     *
      */
     public void tweakComponents() {
+        // TODO implement here
+    }
+
+    /**
+     * @param args
+     * @return
+     */
+    public static void main(String[] args) {
         // TODO implement here
     }
 
